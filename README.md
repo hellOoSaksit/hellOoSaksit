@@ -1,3 +1,5 @@
+![Social Media Image Sizes Reference Guide](https://raw.githubusercontent.com/chuckreynolds/social-profile-image-sizes/master/socialmedia-img-sizes.png)
+
 # Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellOoSaksit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
