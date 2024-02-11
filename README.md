@@ -3,8 +3,10 @@
 ## สถานะปัจจุบัน
 * เป็นนักศึกษาชั้นปีที่ 3 ( มหาลัยรังสิต )
 * มีความสนใจด้านเทคโนโลยี ไอโอที เน็ตเวิร์ค
-
-![#f03c15]<h3>กำลังทำโปรเจค Moondust อยู่สามาเข้าไปดูและCommentได้นะครับ พอดีมันยังไม่เสร็จเลยยังไม่เอาไปลง CV </h3>
+* 
+```
+- <h3>กำลังทำโปรเจค Moondust อยู่สามาเข้าไปดูและCommentได้นะครับ พอดีมันยังไม่เสร็จเลยยังไม่เอาไปลง CV </h3>
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellOoSaksit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
