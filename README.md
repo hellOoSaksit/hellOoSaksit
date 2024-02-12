@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellOoSaksit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📫 ช่องทางติดต่อ
-[![Bookmark Style Card](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010512674475)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
