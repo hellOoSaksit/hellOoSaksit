@@ -35,6 +35,6 @@
 
 ## 📬 Contact Me
 - 🌐 LinkedIn: *[(Click)](https://www.linkedin.com/in/saksit-chuenmaiwaiy-9b2351355/)*  
-- 📧 Email: *hello.saksitmoney@gmail.com*
+- 📧 Email: hello.saksitmoney@gmail.com
 
 ---
