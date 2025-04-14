@@ -1,5 +1,3 @@
-# 👋 Hello there!
-
 ## 🧑‍🎓 About Me  
 - 🎓 **Recent graduate** in Information Technology from **Rangsit University**  
 - 💻 Passionate about technology, especially in **Backend Development**, **IoT**, and **Computer Networks**  
@@ -36,7 +34,7 @@
 ---
 
 ## 📬 Contact Me
-- 🌐 LinkedIn: *(your link here)*  
-- 📧 Email: *(your email here)*
+- 🌐 LinkedIn: *[(your link here)](https://www.linkedin.com/in/saksit-chuenmaiwaiy-9b2351355/)*  
+- 📧 Email: *hello.saksitmoney@gmail.com*
 
 ---
