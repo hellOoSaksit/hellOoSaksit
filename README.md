@@ -1,37 +1,42 @@
-# 👋 สวัสดีครับ!
+# 👋 Hello there!
 
-## 📝 เกี่ยวกับฉัน
-- 🎓 กำลังศึกษาชั้นปีที่ 4 มหาวิทยาลัยรังสิต  
-- 💻 สนใจเทคโนโลยีหลากหลายด้าน เช่น **IoT**, **Network**, และ **การเขียนโปรแกรม**  
-- 🚀 ชอบทดลองสร้างสรรค์และพัฒนาสิ่งใหม่ ๆ เพื่อเพิ่มทักษะและความรู้  
-
----
-
-## 📊 สถิติการเขียนโค้ด
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellOoSaksit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🧑‍🎓 About Me  
+- 🎓 **Recent graduate** in Information Technology from **Rangsit University**  
+- 💻 Passionate about technology, especially in **Backend Development**, **IoT**, and **Computer Networks**  
+- 🚀 Enjoys building projects, learning new technologies, and solving real-world problems  
 
 ---
 
-## 🔧 ทักษะและเครื่องมือ
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+## 🛠️ Tech Stack
+
+### 🔧 Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-net.svg" width="40" height="40" alt="ASP.NET Core"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40" height="40" alt="Redis"/>
 </p>
+
+### 🎨 Frontend & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellOoSaksit&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Contact Me
+- 🌐 LinkedIn: *(your link here)*  
+- 📧 Email: *(your email here)*
 
 ---
