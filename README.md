@@ -1,13 +1,28 @@
-## 🧑‍🎓 About Me  
+
+## 🧑‍💼 About Me  
 - 🎓 **Recent graduate** in Information Technology from **Rangsit University**  
-- 💻 Passionate about technology, especially in **Backend Development**, **IoT**, and **Computer Networks**  
-- 🚀 Enjoys building projects, learning new technologies, and solving real-world problems  
+- 📊 Aspiring **IT Business Analyst** with strong interest in **system analysis**, **requirement gathering**, and **solution design**  
+- 🧠 Analytical thinker who bridges the gap between business needs and technical solutions  
+- 💻 Background in **Backend Development**, **API design**, and basic **DevOps tools** helps communicate effectively with developers  
+- 📌 Passionate about creating clear documentation, modeling workflows, and optimizing system efficiency  
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Skills & Tools
 
-### 🔧 Backend
+### 📋 BA/SA Core Skills  
+- Requirement Gathering & Documentation (BRD, SRS, User Stories)  
+- Use Case & Activity Diagrams (UML, Mermaid.js)  
+- Process Modeling (BPMN, Flowcharts)  
+- Mockup / Wireframing Tools: Figma, Balsamiq  
+- Collaboration: Jira, Confluence, Trello  
+- Data Modeling & ERD  
+- Software Testing (UAT/Test Case Design)  
+
+---
+
+### 🛠️ Tech Stack (Basic to Intermediate)
+#### 🔧 Backend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/>
@@ -17,7 +32,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40" height="40" alt="Redis"/>
 </p>
 
-### 🎨 Frontend & Tools
+#### 🧩 Frontend & Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
@@ -28,13 +43,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Portfolio Highlights
+- 📘 **[HRIS System Analysis Repo](#)**: Full documentation from requirement to ERD and mockup  
+- 🔍 **[Sales App Use Case](#)**: Use Case diagrams + Flow + SRS  
+- 🧪 **[UAT Checklist Template](#)**: Sample UAT test cases designed for internal project  
+
+---
+
+## 📊 GitHub Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellOoSaksit&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact Me  
 - 🌐 LinkedIn: *[(Click)](https://www.linkedin.com/in/saksit-chuenmaiwaiy-9b2351355/)*  
 - 📧 Email: hello.saksitmoney@gmail.com
-
----
